@@ -3,7 +3,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <!--There is the image than is in side right-->
-<img boder="2px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" height="300px" align="right" alt="Error to load the image">
+<img boder="2px" src="[https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png](https://reinforcelab.com/wp-content/uploads/2021/05/WordPress-Website-Design_2-Reinforce-lab.png)" min-width="400px" max-width="400px" width="400px" height="300px" align="right" alt="Error to load the image">
 
 <!--About me-->
 <div align="left">
