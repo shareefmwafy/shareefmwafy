@@ -8,7 +8,7 @@
 <!--About me-->
 <div align="left">
   <h3> ⭐ &nbsp;About me </h3>
-  <p>&nbsp;Hello, I am a computer engineer specialized in software engineering . I strive to find innovative technological solutions, designing and programming systems that creatively and efficiently. I am constantly seeking challenges and growth in the world of information technology, believing in the importance of teamwork and effective communication to achieve success in the projects I undertake</p>
+  <p>&nbsp;I am a computer engineer specialized in software engineering . I strive to find innovative technological solutions, designing and programming systems that creatively and efficiently. I am constantly seeking challenges and growth in the world of information technology, believing in the importance of teamwork and effective communication to achieve success in the projects I undertake</p>
 </div>
 
 <!--The skills-->
