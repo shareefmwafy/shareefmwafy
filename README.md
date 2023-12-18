@@ -11,15 +11,6 @@
   <p>&nbsp;I am a computer engineer specialized in software engineering . I strive to find innovative technological solutions, designing and programming systems that creatively and efficiently. I am constantly seeking challenges and growth in the world of information technology, believing in the importance of teamwork and effective communication to achieve success in the projects I undertake</p>
 </div>
 
-<!--The skills-->
-<div align="left">
-  <h3> :rocket: &nbsp;My Skills </h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</div>
-
 <!--Where me find-->
 <div align="leftt"> 
   <h3> :earth_americas: &nbsp;Where me find </h3> 
